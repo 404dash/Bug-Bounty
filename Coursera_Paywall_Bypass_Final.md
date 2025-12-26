@@ -159,7 +159,7 @@ To demonstrate real-world exploitation potential, I created a proof-of-concept w
 
 > **Note**: This proof-of-concept was never made publicly available and was created solely to demonstrate the severity of this vulnerability.
 
-https://github.com/user-attachments/assets/c925c9e7-ea8d-4854-883c-b50af47a2605
+https://github.com/user-attachments/assets/44cacdf4-099c-48e5-9e56-48de3090b234
 
 ---
 ## Root Cause Analysis

@@ -26,7 +26,7 @@ Multiple Coursera APIs expose paid course content (videos and supplementary mate
 ---
 ## Scope
 
-This vulnerability affects **individual courses** — the foundational content unit of Coursera's platform. Individual courses:
+This vulnerability affects **individual courses**:
 
 - Comprise the building blocks of Professional Certificates, Specializations, and Degrees
 - Are sold standalone (typically $49-$99 per course)

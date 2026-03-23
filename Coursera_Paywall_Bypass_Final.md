@@ -10,7 +10,7 @@ Multiple Coursera APIs expose paid course content (videos and supplementary mate
 | Field | Value |
 |-------|-------|
 | **Vulnerability Type** | Broken Access Control (OWASP A01:2021) |
-| **Severity** | High |
+| **Severity** | Medium (Coursera's Rating) |
 | **Attack Vector** | Network |
 | **Authentication Required** | None |
 | **User Interaction** | None |

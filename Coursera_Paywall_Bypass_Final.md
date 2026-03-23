@@ -186,3 +186,9 @@ The vulnerable APIs fail to implement authentication and authorization checks:
 - [OWASP Broken Access Control](https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
 - [CWE-284: Improper Access Control](https://cwe.mitre.org/data/definitions/284.html)
 - [CWE-862: Missing Authorization](https://cwe.mitre.org/data/definitions/862.html)
+
+---
+## Contributors
+- @Isaac-Marshall
+- @404Dash
+
